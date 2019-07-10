@@ -32,22 +32,22 @@
     }
 
     const answers = [
-        '{userName}のいいところは声です。{userName}の特徴的な声は皆を聞いた人は死ぬ',
-        '{userName}のいいところはまなざしです。{userName}に見つめられた人は死ぬ',
-        '{userName}のいいところは情熱です。{userName}の情熱に周りの人は死ぬ',
-        '{userName}のいいところは厳しさです。{userName}の厳しさで死ぬ',
-        '{userName}のいいところは知識です。博識な{userName}のせいで死ぬ',
-        '{userName}のいいところはユニークさです。{userName}だけ死ぬ',
-        '{userName}のいいところは用心深さです。{userName}がする決断で死ぬ',
-        '{userName}のいいところは見た目です。内側から死ぬ',
-        '{userName}のいいところは決断力です。{userName}がする決断で死ぬ',
-        '{userName}のいいところは思いやりです。{userName}に気をかけて死ぬ',
-        '{userName}のいいところは感受性です。{userName}が感じて死ぬ',
-        '{userName}のいいところは節度です。強引すぎず死ぬ',
-        '{userName}のいいところは好奇心です。新しいことに向かって死ぬ',
-        '{userName}のいいところは気配りです。{userName}の配慮が多くの人を殺す',
-        '{userName}のいいところはその全てです。ありのまま死ぬ',
-        '{userName}のいいところは自制心です。まずいと思ったときに死ぬ'
+        '{userName}のいいところは声です。',
+        '{userName}のいいところはまなざしです。',
+        '{userName}のいいところは情熱です。',
+        '{userName}のいいところは厳しさです。',
+        '{userName}のいいところは知識です。',
+        '{userName}のいいところはユニークさです。',
+        '{userName}のいいところは用心深さです。',
+        '{userName}のいいところは見た目です。',
+        '{userName}のいいところは決断力です。',
+        '{userName}のいいところは思いやりです。',
+        '{userName}のいいところは感受性です。',
+        '{userName}のいいところは節度です。',
+        '{userName}のいいところは好奇心です。',
+        '{userName}のいいところは気配りです。',
+        '{userName}のいいところはその全てです。',
+        '{userName}のいいところは自制心です。'
     ];
 
     function assessment(userName) {
